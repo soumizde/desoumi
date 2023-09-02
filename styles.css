@@ -232,9 +232,16 @@ nav ul li a:hover::after{
 .work:hover .layer{
     height: 100%;
 }
+
+.button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .btn{
     display: block;
-    margin: 50px auto;
+    margin: 50px 10px;
     width: fit-content;
     border: 1px solid #EFEB7B;
     padding: 14px 50px;
