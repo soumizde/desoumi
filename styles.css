@@ -124,7 +124,9 @@ nav ul li a:hover::after{
 #certifications{
     column-count: 2;
 }
-
+.heading{
+    margin-bottom: -18px;
+}
 .tab-links{
     margin-right: 50px;
     font-size: 18px;
